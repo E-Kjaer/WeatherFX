@@ -1,4 +1,4 @@
-package org.example.weatherfx.controllers;
+package org.example.weatherfx.presentation.controllers;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
